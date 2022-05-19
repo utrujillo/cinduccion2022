@@ -1,4 +1,4 @@
-import random
+9import random
 
 numeroAleatorio = random.randint( 0, 30 )
 # edad = int( input("Escribe tu edad: ") )
